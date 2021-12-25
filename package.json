@@ -1,0 +1,16 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "A small project to show how microservices work using Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "microservices",
+    "backend"
+  ],
+  "author": "Emil Jan",
+  "license": "MIT"
+}
